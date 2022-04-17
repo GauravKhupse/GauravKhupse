@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravKhupse
 - 👀 I’m interested in code development and Googe Schema markup research.
-- 🌱 I’m currently learning JS,React JS,
+- 🌱 I’m currently Working on JS,React JS,ES6
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gaurakhupse@gmail.com
 
